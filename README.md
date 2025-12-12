@@ -1,16 +1,38 @@
-## Hi there 👋
+# こんにちは！👋 y-haneda05です
 
-<!--
-**y-haneda05/y-haneda05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+情報工学を専攻している大学生です。主にコンピュータサイエンスの基礎と、基礎研究に取り組んでいます。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ スキルスタック
+
+| カテゴリ | 技術 |
+| :--- | :--- |
+| **主要言語** | Python, C, HTML |
+| **その他** | CSS, Git/GitHub |
+
+---
+
+## 🔬 研究と応用プロジェクト
+
+### 1. Pythonシミュレーション研究
+ネーミングゲームについて、シミュレーションを用いて研究しています。
+
+* **技術スタック:** Python（主にデータ処理ライブラリを使用）
+* **貢献:** シミュレーションモデルの設計、実装、および結果のデータ分析をしています。
+
+### 2. 共同制作 Webページ開発
+チームでの協調開発をしています
+
+* **プロジェクト概要:** 大学の同期と共同で、団体で使用する用語の検索サイトを制作中。
+* **担当技術:** HTML/CSSによる静的ページおよびインタラクティブ要素の実装。
+* **デモ:** 完成後、デモ版を本リポジトリにて公開予定。
+
+---
+
+## 📚 学術的基礎 (C言語/CS基礎)
+
+C言語を用いた大学の基礎課題を通して、以下の分野で強固な基礎を築きました。
+
+* **分野:** アルゴリズム、データ構造、システムプログラミング
+* **アピール:** C言語の課題クリアを通じて、複雑なロジックを設計し、メモリや計算資源を意識した効率的なコードを書く能力を養いました。
